@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: Fall 2025
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Fall 2025
 ---
 
 # Course Description
